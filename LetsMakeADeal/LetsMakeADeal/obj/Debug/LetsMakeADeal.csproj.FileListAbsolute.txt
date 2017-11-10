@@ -1,0 +1,9 @@
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\bin\Debug\LetsMakeADeal.exe.config
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\bin\Debug\LetsMakeADeal.exe
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\bin\Debug\LetsMakeADeal.pdb
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.csprojResolveAssemblyReference.cache
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.Form1.resources
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.Properties.Resources.resources
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.csproj.GenerateResource.Cache
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.exe
+C:\Users\MochiBot\documents\visual studio 2017\Projects\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.pdb
